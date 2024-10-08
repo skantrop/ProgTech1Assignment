@@ -1,0 +1,14 @@
+8
+P
+P
+L 1000
+P
+P
+L 70
+P
+L 2000
+3
+Nurayim GP
+Rena CP
+Zuzu TP
+5 5 1 3 2 1 3 4 2 5 4 1
